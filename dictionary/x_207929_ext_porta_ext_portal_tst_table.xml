@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Ext_portal_tst Table" max_length="40" name="x_207929_ext_porta_ext_portal_tst_table" type="collection"/>
+</database>
